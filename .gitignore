@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# IDE and editor settings
+.vscode/
+.idea/
+.DS_Store
